@@ -25,17 +25,17 @@ The milestone delivery process is part of the [AELF DAO Grants](https://github.c
    4. Name the file `project_name-milestone_number.md` or in the case of maintenance agreement `project_name-delivery_number.md`
    5. Create a pull request and fill out the comment template.
 2. **Milestone Review:**
-   1. [Evaluators](https://github.com/w3f/Grants-Program#team) can (and usually do) issue comments and request changes on the pull request. Their feedback needs to be resolved before your milestone is accepted.
+   1. [Evaluators](https://github.com/veercd/test#team) can (and usually do) issue comments and request changes on the pull request. Their feedback needs to be resolved before your milestone is accepted.
    2. Grants Evaluators will merge your pull request to accept the delivery.
 3. **Milestone Payment:**
-   1. The [operations team](https://github.com/w3f/Grants-Program#team) receives a notification once the delivery is accepted. Payments are usually processed within 14 days.
-   2. Payment is made to the Bitcoin or Ethereum address specified in the initial application. The exchange rate for BTC depends on the time of payment.
+   1. The [operations team](https://github.com/veercd/test#team) receives a notification once the delivery is accepted. Payments are usually processed within 14 days.
+   2. Payment is made to the AELF address specified in the initial application. The exchange rate for AELF depends on the time of payment.
 
-Grant applications can be [amended](https://github.com/w3f/Grants-Program#changes-to-a-grant-after-approval) at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
+Grant applications can be [amended](https://github.com/veercd/test#changes-to-a-grant-after-approval) at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
 ## :ballot_box_with_check: External Evaluations
 
-As part of the grant program, we allow everyone to participate in the evaluation process of submitted milestones. Successfully merged external evaluations will receive **up to 5 KSM**, depending on the quality and depth of the evaluation. The payout will be sent to their Kusama identity address.
+Accepted grant applications can be [amended](https://github.com/veercd/test#changes-to-a-grant-after-approval) at any time. However, this may need to be reassessed . 
 
 ### Requirements
 
