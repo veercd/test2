@@ -33,35 +33,13 @@ The milestone delivery process is part of the [AELF DAO Grants](https://github.c
 
 Grant applications can be [amended](https://github.com/veercd/test#changes-to-a-grant-after-approval) at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
-## :ballot_box_with_check: External Evaluations
-
-Accepted grant applications can be [amended](https://github.com/veercd/test#changes-to-a-grant-after-approval) at any time. However, this may need to be reassessed . 
-
-### Requirements
-
-- [On-Chain identity](https://guide.kusama.network/docs/learn-identity/) on Kusama.
-- GitHub account.
-- The evaluation must be submitted within 10 days after the milestone was delivered.
-
-### Process
-
-1. [Fork](https://github.com/w3f/Grant-Milestone-Delivery/fork) this repository.
-2. In the newly created fork, create a **copy** of the evaluation template ([`evaluations/evaluation-template.md`](evaluations/evaluation-template.md)).
-3. Name the file `project-name_milestone-number_your-github-username.md`.
-4. Fill out the template with the specifics of your evaluation. The higher the quality of your assessment and the level of detail, the higher the KSM recompense.
-5. Once you have completed the evaluation, create a pull request.
-6. Add a comment or review to the pull request that contains the evaluated milestone delivery. This comment should contain a quick summary of your finding as well as link to the milestone submission.
-7. Milestone evaluations are double-checked by [W3F Grants Evaluators](https://github.com/w3f/Grants-Program#team). Successful milestone evaluations are merged and the evaluator is rewarded with KSM.
-
-*You can evaluate as many deliveries as you like. With each successful evaluation, the probability of being double-checked decreases and eventually you'll be added to the list of [W3F Grants Evaluators](https://github.com/w3f/Grants-Program#team) yourself.*
-
 ## :bulb: Help
 
 ### Additional information
 
 | <img src="src/web.png?s=50" width="50"> | <img src="src/twitter.png?s=50" width="50"> | <img src="src/medium.png?s=50" width="50"> | <img src="src/like.png?s=50" width="50"> | <img src="src/reddit.png?s=50" width="50"> | <img src="src/youtube-play.png?s=50" width="50"> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [W3F Website](https://web3.foundation) | [W3F Twitter](https://twitter.com/web3foundation) | [W3F Medium](https://medium.com/web3foundation) | [Polkadot Wiki](https://wiki.polkadot.network/en/) | [Web 3.0 Reddit](https://www.reddit.com/r/web3) | [W3F YouTube](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g) |
+| [Grant Website](https://web3.foundation) | [W3F Twitter](https://twitter.com/web3foundation) | [W3F Medium](https://medium.com/web3foundation) | [Polkadot Wiki](https://wiki.polkadot.network/en/) | [Web 3.0 Reddit](https://www.reddit.com/r/web3) | [W3F YouTube](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g) |
 
 ### Real-time conversation
 
